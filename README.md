@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shakir-j/Leetcode/tree/master/0001-two-sum) |
+| [0040-combination-sum-ii](https://github.com/Shakir-j/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0189-rotate-array](https://github.com/Shakir-j/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shakir-j/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Shakir-j/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Shakir-j/Leetcode/tree/master/0189-rotate-array) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/Shakir-j/Leetcode/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
