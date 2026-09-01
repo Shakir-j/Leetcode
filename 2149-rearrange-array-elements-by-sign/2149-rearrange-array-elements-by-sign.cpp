@@ -4,11 +4,14 @@ public:
         vector<int> pos, neg;
 
         for (int i = 0; i < nums.size(); i++) {
-            if (nums[i] > 0) pos.push_back(nums[i]);
+            if (nums[i] > 0) {
+                pos.push_back(nums[i]);
+            } else {
+                neg.push_back(nums[i]);
+            }
         }
-        for (int i = 0; i < nums.size(); i++) {
-            if (nums[i] < 0) neg.push_back(nums[i]);
-        }
+        
+        
 
         vector<int> result;
         for (int i = 0; i < pos.size(); i++) {
