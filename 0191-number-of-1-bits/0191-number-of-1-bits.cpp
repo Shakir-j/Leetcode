@@ -12,3 +12,5 @@ public:
         return cnt;
     }
 };
+
+// STL Function : return __builtin_popcount(n);
