@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shakir-j/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0191-number-of-1-bits](https://github.com/Shakir-j/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -101,5 +102,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Shakir-j/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Shakir-j/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
