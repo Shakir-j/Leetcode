@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shakir-j/Leetcode/tree/master/0001-two-sum) |
 | [0040-combination-sum-ii](https://github.com/Shakir-j/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/Shakir-j/Leetcode/tree/master/0078-subsets) |
 | [0189-rotate-array](https://github.com/Shakir-j/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shakir-j/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Shakir-j/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Shakir-j/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/Shakir-j/Leetcode/tree/master/0078-subsets) |
 ## Simulation
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Shakir-j/Leetcode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/Shakir-j/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Shakir-j/Leetcode/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Shakir-j/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
