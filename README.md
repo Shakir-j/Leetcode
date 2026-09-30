@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Shakir-j/Leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Shakir-j/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Shakir-j/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0860-lemonade-change](https://github.com/Shakir-j/Leetcode/tree/master/0860-lemonade-change) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shakir-j/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shakir-j/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Shakir-j/Leetcode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Shakir-j/Leetcode/tree/master/0860-lemonade-change) |
 ## Sorting
 |  |
 | ------- |
