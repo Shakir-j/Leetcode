@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Shakir-j/Leetcode/tree/master/0189-rotate-array) |
 | [0260-single-number-iii](https://github.com/Shakir-j/Leetcode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Shakir-j/Leetcode/tree/master/0283-move-zeroes) |
+| [0435-non-overlapping-intervals](https://github.com/Shakir-j/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Shakir-j/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Shakir-j/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0860-lemonade-change](https://github.com/Shakir-j/Leetcode/tree/master/0860-lemonade-change) |
@@ -124,11 +125,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Shakir-j/Leetcode/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/Shakir-j/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Shakir-j/Leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Shakir-j/Leetcode/tree/master/0860-lemonade-change) |
 ## Sorting
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Shakir-j/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Shakir-j/Leetcode/tree/master/0455-assign-cookies) |
 ## Quicksort
 |  |
@@ -138,4 +141,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Shakir-j/Leetcode/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/Shakir-j/Leetcode/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
