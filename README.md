@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Shakir-j/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Shakir-j/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0860-lemonade-change](https://github.com/Shakir-j/Leetcode/tree/master/0860-lemonade-change) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shakir-j/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shakir-j/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shakir-j/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Shakir-j/Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shakir-j/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Shakir-j/Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Stack
 |  |
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Shakir-j/Leetcode/tree/master/0678-valid-parenthesis-string) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shakir-j/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
