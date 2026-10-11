@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shakir-j/Leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shakir-j/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0138-copy-list-with-random-pointer](https://github.com/Shakir-j/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Shakir-j/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shakir-j/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shakir-j/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0678-valid-parenthesis-string](https://github.com/Shakir-j/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1768-merge-strings-alternately](https://github.com/Shakir-j/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Math
@@ -176,5 +178,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shakir-j/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shakir-j/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
