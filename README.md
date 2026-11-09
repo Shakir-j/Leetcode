@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Shakir-j/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Shakir-j/Leetcode/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/Shakir-j/Leetcode/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Shakir-j/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0135-candy](https://github.com/Shakir-j/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Shakir-j/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Shakir-j/Leetcode/tree/master/0137-single-number-ii) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shakir-j/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Shakir-j/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Shakir-j/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0225-implement-stack-using-queues](https://github.com/Shakir-j/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Shakir-j/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/Shakir-j/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -208,5 +210,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shakir-j/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Shakir-j/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/Shakir-j/Leetcode/tree/master/0503-next-greater-element-ii) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Shakir-j/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
