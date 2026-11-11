@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Shakir-j/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Shakir-j/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Shakir-j/Leetcode/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/Shakir-j/Leetcode/tree/master/0901-online-stock-span) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Shakir-j/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Shakir-j/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/Shakir-j/Leetcode/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Shakir-j/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/Shakir-j/Leetcode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Shakir-j/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/Shakir-j/Leetcode/tree/master/0901-online-stock-span) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -228,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Shakir-j/Leetcode/tree/master/0085-maximal-rectangle) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Shakir-j/Leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
