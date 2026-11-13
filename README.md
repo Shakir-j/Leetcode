@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Shakir-j/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Shakir-j/Leetcode/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/Shakir-j/Leetcode/tree/master/0189-rotate-array) |
+| [0239-sliding-window-maximum](https://github.com/Shakir-j/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Shakir-j/Leetcode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Shakir-j/Leetcode/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/Shakir-j/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shakir-j/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/Shakir-j/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Shakir-j/Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Merge Sort
 |  |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shakir-j/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/Shakir-j/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shakir-j/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Design
 |  |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Shakir-j/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Shakir-j/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/Shakir-j/Leetcode/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -227,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shakir-j/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/Shakir-j/Leetcode/tree/master/0239-sliding-window-maximum) |
 ## Matrix
 |  |
 | ------- |
@@ -235,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Shakir-j/Leetcode/tree/master/0901-online-stock-span) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Shakir-j/Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
